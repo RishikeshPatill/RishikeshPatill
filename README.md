@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RishikeshPatill
+- 👋 Hi, I’m @RishikeshPatil
 - 👀 I’m interested in 'Full Stack Development'. 
 - 🌱 I’m currently learning 'Spring Boot & DevOps'. 
 - 💞️ I’m looking to collaborate on 'Spring Boot Projects'.
